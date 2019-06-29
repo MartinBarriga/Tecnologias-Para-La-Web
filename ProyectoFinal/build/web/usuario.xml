@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuario>
+  <profesor id = "1213">
+    <nombre>Ruben Peredo</nombre>
+    <password>ruben</password>
+    <email>ruben.peredo@hotmail.com</email>
+  </profesor>
+  <profesor id = "2444">
+    <nombre>Martin Barriga</nombre>
+    <password>123</password>
+    <email>martin.barriga.vargas@gmail.com</email>
+  </profesor>
+</usuario>
